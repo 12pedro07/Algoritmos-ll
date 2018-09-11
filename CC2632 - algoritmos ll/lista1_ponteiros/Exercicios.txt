@@ -1,0 +1,18 @@
+Ex01)
+
+A) 	- Linha 14: 7
+	- Linha 15: 7 
+	- Linha 16: 10
+
+B) p/ b = 5004
+	- Linha 14: 5004
+	- Linha 15: 5004
+	- As duas linhas são iguais, pois o ponteiro passou a apontar 	  para a o endereço da variavel b na linha 12
+
+Ex03)
+
+Supondo &ptr=5008 e &x=5012
+	- Linha 09: 5
+	- Linha 10: 5012
+	- Linha 11: 5008
+	- Linha 12: 5012

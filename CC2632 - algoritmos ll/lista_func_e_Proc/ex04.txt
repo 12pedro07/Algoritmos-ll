@@ -1,0 +1,7 @@
+Ex 04.
+
+Console:
+
+O valor de a = 24
+O valor de b = 7
+Pressione qualquer tecla para continuar. . .
